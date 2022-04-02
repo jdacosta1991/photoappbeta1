@@ -42,7 +42,7 @@ gem 'devise-bootstrap-views'
 gem 'jquery-rails'
 gem 'hirb'
 gem 'stripe'
-gem "font-awesome-rails"
+
 
 group :production do
   gem 'pg'
